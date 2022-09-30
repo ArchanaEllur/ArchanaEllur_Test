@@ -1,5 +1,5 @@
 # ArchanaEllur_Test
-After cloning the project, please follow the below steps to set up this project
+After cloning the project, please follow the below steps to set up this project : https://github.com/ArchanaEllur/ArchanaEllur_Test
 
 1. Open folder in visual studio.
 2. Install the node modules by using command in terminal 'npm install'
