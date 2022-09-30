@@ -7,9 +7,9 @@ After cloning the project, please follow the below steps to set up this project 
 
 File to be rename
 
-features -> Feature file -> category.feature
-features -> steps file -> categorySteps.js
-features -> pages file -> category.page.js
+Features -> Feature file -> category.feature
+Features -> steps file -> categorySteps.js
+Features -> pages file -> category.page.js
 
 Note: All the scenarios has now been completed
 
